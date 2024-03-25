@@ -110,3 +110,8 @@ Men som begge ved, så er der ikke meget værdi i det data det returnerer.
 
 # V2
 
+I denne version er der udarbejdet en datastruktur på baggrund af dataformatet af CPR filen.  
+Den behandler AktVej som den primære data type, hvor alle andre typer anses som sekundære berigelses klasser.  
+
+# Forslag til forbedringer
+Implementation af caching på vha. et Dictionary som holder på med KomKode som value, og value være Listen af Veje for den pågælende kommune.
