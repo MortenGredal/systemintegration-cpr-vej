@@ -18,7 +18,7 @@ V2 anbefales
 
 # Kørsel via curl
 
-Hivs det er lige lovlig meget arbejde at åbne en browser, så er curl også muligt:
+Hvis det er lige lovlig meget arbejde at åbne en browser, så er curl også muligt:
 
 ### find by komkode and vejkode
 ```curl
